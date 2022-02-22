@@ -1,0 +1,26 @@
+{
+  "name": "@artsy/filter-utils",
+  "version": "1.0.0",
+  "description": "Utilities for parsing and formatting Artsy's filter values",
+  "main": "index.js",
+  "scripts": {
+    "test": "yarn jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/artsy/filter-utils.git"
+  },
+  "keywords": [
+    "Artsy"
+  ],
+  "author": "mdole & nickskalkin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/artsy/filter-utils/issues"
+  },
+  "homepage": "https://github.com/artsy/filter-utils#readme",
+  "devDependencies": {
+    "jest": "^27.5.1",
+    "typescript": "^4.5.5"
+  }
+}
