@@ -21,7 +21,3 @@ describe("parsePriceRange", () => {
     })
   })
 })
-
-describe("invalid input", () => {
-  // todo
-})
