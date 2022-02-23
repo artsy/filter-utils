@@ -29,6 +29,7 @@
   },
   "homepage": "https://github.com/artsy/filter-utils#readme",
   "devDependencies": {
+    "@artsy/auto-config": "^1.1.0",
     "@types/jest": "^27.4.0",
     "auto": "^10.32.6",
     "husky": "^7.0.4",
